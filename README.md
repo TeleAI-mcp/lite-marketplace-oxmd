@@ -1,2 +1,3 @@
-# lite-marketplace-oxmd
-Automated issue comment bot repository
+# Lite Marketplace Oxmd
+
+Automated issue comment bot repository.
